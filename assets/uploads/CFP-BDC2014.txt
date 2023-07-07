@@ -1,0 +1,148 @@
+Call for Papers
+
+First International Symposium on Big Data Computing (BDC 2014) 
+December 8-11, 2014, London, UK
+http://www.cloudbus.org/bdc2014 
+
+In conjunction with:
+7th IEEE/ACM International Conference on Utility and Cloud Computing (UCC 2014)
+
+Introduction
+===============================================================================
+Rapid advances in digital sensors, networks, storage, and computation along 
+with their availability at low cost is leading to the creation of huge 
+collections of data -- dubbed as Big Data. This data has the potential for 
+enabling new insights that can change the way business, science, and 
+governments deliver services to their consumers and can impact society as a 
+whole. This has led to the emergence of the Big Data Computing paradigm 
+focusing on sensing, collection, storage, management and analysis of data from 
+variety of sources to enable new value and insights. 
+
+To realize the full potential of Big Data Computing, we need to address 
+several challenges and develop suitable conceptual and technological solutions 
+for dealing them. These include life-cycle management of data, large-scale 
+storage, flexible processing infrastructure, data modelling, scalable machine 
+learning and data analysis algorithms, techniques for sampling and making 
+trade-off between data processing time and accuracy, and dealing with privacy 
+and ethical issues involved in data sensing, storage, processing, and actions.
+
+The International Symposium on Big Data Computing (BDC) 2014 -- held 
+in conjunction with 7th IEEE/ACM International Conference on Utility and Cloud 
+Computing (UCC 2014), December 8-11, 2014, London, UK, aims at bringing 
+together international researchers, developers, policy makers, and users and 
+to provide an international forum to present leading research activities, 
+technical solutions, and results on a broad range of topics related to Big 
+Data Computing paradigms, platforms and their applications. The conference 
+features keynotes, technical presentations, posters, workshops, tutorials, as 
+well as competitions featuring live demonstrations.
+
+Topics
+===============================================================================
+Topics of interest include, but are not limited to:
+I. Big Data Science
+* Analytics
+* Algorithms for Big Data
+* Energy-efficient Algorithms
+* Big Data Search
+* Big Data Acquisition, Integration, Cleaning, and Best Practices
+* Visualization of Big Data 
+
+II. Big Data Infrastructures and Platforms 
+* Programming Systems
+* Cyber-Infrastructure
+* Performance evaluation 
+* Fault tolerance and reliability 
+* I/O and Data management 
+* Storage Systems (including file systems, NoSQL, and RDBMS)
+* Resource management 
+* Many-Task Computing 
+* Many-core computing and accelerators
+
+III. Big Data Security and Policy 
+* Management Policies 
+* Data Privacy
+* Data Security 
+* Big Data Archival and Preservation
+* Big Data Provenance
+
+IV. Big Data Applications 
+* Scientific application cases studies on Cloud infrastructure
+* Big Data Applications at Scale
+* Experience Papers with Big Data Application Deployments
+* Data streaming applications
+* Big Data in Social Networks
+* Healthcare Applications
+* Enterprise Applications
+
+IMPORTANT DATES
+===============================================================================
+* Papers Due: 			September 22nd, 2014 (midnight Anywhere on Earth)
+* Notification of Acceptance: 	October 15th, 2014
+* Camera Ready Papers Due: 	October 31st, 2014
+
+PAPER SUBMISSION
+===============================================================================
+Authors are invited to submit papers electronically. Submitted manuscripts 
+should be structured as technical papers and may not exceed 10 letter size 
+(8.5 x 11) pages including figures, tables and references using the CPS format 
+for conference proceedings (print area of 6-1/2 inches (16.51 cm) wide by 8-7/8 
+inches (22.51 cm) high, two-column format with columns 3-1/16 inches (7.85 cm) 
+wide with a 3/8 inch (0.81 cm) space between them, single-spaced 10-point Times 
+fully justified text). Submissions not conforming to these guidelines may be 
+returned without review. Authors should submit the manuscript in PDF format and 
+make sure that the file will print on a printer that uses letter size (8.5 x 11) 
+paper. The official language of the meeting is English. All manuscripts will be 
+reviewed and will be judged on correctness, originality, technical strength, 
+significance, quality of presentation, and interest and relevance to the 
+conference attendees. Papers conforming to the above guidelines can be 
+submitted through the BDC 2014 paper submission system 
+(https://www.easychair.org/conferences/?conf=bdc2014).
+
+Submitted papers must represent original unpublished research that is not 
+currently under review for any other conference or journal. Papers not 
+following these guidelines will be rejected without review and further action 
+may be taken, including (but not limited to) notifications sent to the heads 
+of the institutions of the authors and sponsors of the conference. Submissions 
+received after the due date, exceeding length limit, or not appropriately 
+structured may also not be considered. Authors may contact the conference PC 
+Chair for more information. 
+
+
+CHAIRS & COMMITTEES
+===============================================================================
+General Co-Chairs:
+* Rajkumar Buyya, University of Melbourne, Australia
+* Divyakant Agrawal, University of California at Santa Barbara, USA
+
+Program Co-Chairs:
+* Ioan Raicu, Illinois Institute of Technology and Argonne National Lab., USA
+* Manish Parashar, Rutgers, The State University of New Jersey, USA
+
+Area Track Co-Chairs:
+* Big Data Science
+  o Omer F. Rana, Cardiff University, UK
+  o Ilkay Altintas, University of California, San Diego, USA
+
+* Big Data Infrastructures and Platforms
+  o Amy Apon, Clemson University, USA
+  o Jiannong Cao, Honk Kong Polytechnic University
+
+* Big Data Security and Policy
+  o Bogdan Carbunar, Florida International University
+
+* Big Data Applications
+  o Dennis Gannon, Microsoft Research, USA
+
+Cyber Chair
+* Amir Vahid, University of Melbourne, Australia
+
+Publicity Chairs
+* Carlos Westphall, Federal University of Santa Catarina, Brazil
+* Ching-Hsien Hsu, Chung Hua Univ., Taiwan & Tianjin Univ. of Technology, China 
+* Rong Ge, Marquette University, USA
+* Giuliano Casale, Imperial College London, UK
+
+Organizing Chair:
+* Ashiq Anjum, University of Derby, UK
+
+
